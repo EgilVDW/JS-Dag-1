@@ -1,9 +1,11 @@
 body {
     background-color: #888;
 }
-
 h1 {
+    font-family: "Didot", serif;
     font-size: 64px;
+    text-align: center;
+    padding: 50px;
 }
 
 p {
